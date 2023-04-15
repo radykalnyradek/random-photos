@@ -8,6 +8,7 @@ body {
 
 .image-container {
   text-align: center;
+  max-width: 1000px;
 }
 
 .image-container img {
